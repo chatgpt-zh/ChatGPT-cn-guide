@@ -1,13 +1,13 @@
 # ChatGPT 中文版：一分钟教你在国内轻松使用 ChatGPT！
 
-> **更新时间：2025年02月27日**
+> **更新时间：2025年05月19日**
 
 **全面掌握 ChatGPT 中文版，无需翻墙即可体验 GPT-4 及多样化功能！**
 
 这篇指南旨在为国内用户提供详尽的 **ChatGPT 中文版** 使用方法，整理了常用的 **ChatGPT 镜像网站** 和官方教程，帮助你快速上手，无论用于个人娱乐还是专业需求都游刃有余。
 
-**ChatGPT 中文版入口**：[chat.yixiaai.com](https://chat.yixiaai.com)  
-**ChatGPT 推荐镜像网站**：[chat.lify.vip](http://chat.lify.vip)
+**ChatGPT 中文版入口**：[xsimplechat.com](https://xsimplechat.com)  
+**ChatGPT 推荐镜像网站**：[chat.lanjing.pro](http://chat.lanjing.pro)
 
 ---
 
@@ -39,10 +39,8 @@
 
 | 网站名称      | 地址                                           | 支持版本              | 免费额度 | 注册方式    | 稳定性 | 功能亮点 |
 |---------------|------------------------------------------------|----------------------|----------|------------|--------|----------|
-| **一下 AI**   | [https://chat.yixiaai.com](https://chat.yixiaai.com) | GPT-4, GPT-3.5, GPT-o1、Grok、Claude等 | 有        | 无需注册   | 高     | 中文对话、响应迅速 |
-| **Lify AI**   | [http://chat.lify.vip](http://chat.lify.vip)         | GPT-4, GPT-3.5, Grok | 有        | 无需注册   | 高     | 语音交互、界面友好 |
-| **ChatGPT中文客户端** | [ChatGPT中文版客户端-Windows](http://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi) | GPT-4, GPT-3.5,Midjourney | 有        | 无需注册   | 高     | 客户端极速体验 |
-| **Edge插件版** | [ChatGPT中文版-Edge插件](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil) | GPT-3.5, GPT-4o       | 有        | 无需注册   | 中     | 浏览器集成、对话、绘画、知识库功能一站解决 |
+| **一下 AI**   | [https://xsimplechat.com](https://xsimplechat.com) | GPT-4, GPT-3.5, GPT-o1、Grok、Claude等 | 有        | 无需注册   | 高     | 中文对话、响应迅速 |
+| **Lify AI**   | [http://chat.lanjing.pro](http://chat.lanjing.pro)         | GPT-4, GPT-3.5, Grok | 有        | 无需注册   | 高     | 语音交互、界面友好 |
 
 这些镜像网站稳定性高，功能多样，无需繁琐注册即可使用。
 
@@ -51,7 +49,7 @@
 ## ChatGPT 官网与中文版有何不同？
 
 | **对比项**     | **ChatGPT 官网**          | **ChatGPT 中文版（镜像网站）** |
-|----------------|--------------------------|------------------------------|
+|----------------|--------------------------|------------------------------|xsimplechat.com
 | **访问方式**   | 需要翻墙，限制较多       | 无需翻墙，国内直接使用       |
 | **语言支持**   | 多语言，中文优化有限     | 专注中文，回答更精准         |
 | **功能支持**   | 支持 GPT-4、GPT-3.5      | GPT-4、GPT-3.5，扩展功能丰富|
