@@ -1,13 +1,13 @@
 # ChatGPT 中文版：一分钟教你在国内轻松使用 ChatGPT！
 
-> **更新时间：2025年05月27日**
+> **更新时间：2025年07月18日**
 
 **全面掌握 ChatGPT 中文版，无需翻墙即可体验 GPT-4 及多样化功能！**
 
 这篇指南旨在为国内用户提供详尽的 **ChatGPT 中文版** 使用方法，整理了常用的 **ChatGPT 镜像网站** 和官方教程，帮助你快速上手，无论用于个人娱乐还是专业需求都游刃有余。
 
 **ChatGPT 中文版入口**：[xsimplechat.com](https://xsimplechat.com)  
-**ChatGPT 推荐镜像网站**：[chat.lanjing.pro](http://chat.lanjing.pro)
+**ChatGPT 推荐镜像网站**：[chat.lanjingai.org](http://chat.lanjingai.org)
 
 ---
 
@@ -40,7 +40,7 @@
 | 网站名称      | 地址                                           | 支持版本              | 免费额度 | 注册方式    | 稳定性 | 功能亮点 |
 |---------------|------------------------------------------------|----------------------|----------|------------|--------|----------|
 | **一下 AI**   | [https://xsimplechat.com](https://xsimplechat.com) | GPT-4, GPT-3.5, GPT-o1、Grok、Claude等 | 有        | 无需注册   | 高     | 中文对话、响应迅速 |
-| **Lify AI**   | [http://chat.lanjing.pro](http://chat.lanjing.pro)         | GPT-4, GPT-3.5, Grok | 有        | 无需注册   | 高     | 语音交互、界面友好 |
+| **Lify AI**   | [http://chat.lanjingai.org](http://chat.lanjingai.org)         | GPT-4, GPT-3.5, Grok | 有        | 无需注册   | 高     | 语音交互、界面友好 |
 
 这些镜像网站稳定性高，功能多样，无需繁琐注册即可使用。
 
@@ -63,7 +63,7 @@
 ## 如何快速使用 ChatGPT 中文版
 
 ### **通过镜像网站快速上手**
-1. **选择网站**：例如 [一下 AI](https://chat.lanjing.pro)。
+1. **选择网站**：例如 [一下 AI](https://chat.lanjingai.org)。
 2. **开始使用**：
    - 无需注册，直接进入对话页面。
    - 或用邮箱简单登录。
